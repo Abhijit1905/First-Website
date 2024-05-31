@@ -1,0 +1,24 @@
+.card-container{
+    text-align: center;
+    margin-top: 100px;
+}
+.button{
+    display:flex;
+    justify-content: center;
+    gap:50px;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+.containers{
+    display:flex;
+    justify-content:center ;
+    margin:0px;
+    border: 0px;;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
